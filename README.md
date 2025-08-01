@@ -1,4 +1,4 @@
-# 🔥 **SQLSleuth** – Advanced SQL Injection Scanner
+# 🔥 **SQLSleuth** – SQL Injection Scanner
 
 ```
                                        ____   ___  _     ____  _            _   _     
